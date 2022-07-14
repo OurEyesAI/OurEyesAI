@@ -12,9 +12,13 @@ El proyecto busca monitorear la cobertura de agua en una región especifica, par
 Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
 
 ## Tecnologías/Frameworks utilizados
-- Colab
+- Google Colab (Colaboratory)
 - Google Earth Engine
 - TensorFlow
+- Keras
+- Apache Beam
+- Numpy
+- Matplotlib
 
 ## Funcionalidades mas importantes
 Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?

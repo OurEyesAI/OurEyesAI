@@ -68,7 +68,7 @@ Y eso es todo luego puede ejecutar el proyecto en su entorno colab.
 * Elmer Efrain Alanoca Condori
 * Federico Ortega Chura
 * Juan Carlos Sanchez Calle
-* Dafné Torrico
+* Delma Dafné Torrico Flores
 
 ## Recursos Utilizados
 * Catalog Sentinel-2 MSI: MultiSpectral Instrument, Level-1C

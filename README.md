@@ -71,10 +71,6 @@ Y eso es todo luego puede ejecutar el proyecto en su entorno colab.
 * Dafné Torrico
 
 ## Recursos Utilizados
-* Measuring climate and land changes with AI
-
-https://colab.research.google.com/github/GoogleCloudPlatform/python-docs-samples/blob/main/people-and-planet-ai/land-cover-classification/README.ipynb
-
 * Catalog Sentinel-2 MSI: MultiSpectral Instrument, Level-1C
 
 https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#bands
@@ -82,6 +78,25 @@ https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#bands
 * Catalog ESA WorldCover 10m v100 
 
 https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v100
+
+* Measuring climate and land changes with AI
+
+https://cloud.google.com/blog/topics/developers-practitioners/measuring-climate-and-land-changes-ai?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_ret_gcp_yfuxjwamepw_PeopleAndPlanetAI_061422&utm_content=description
+
+Recursos adicionales para FCNs and Segmentation:
+[Fully Convolutional Network](https://www.mygreatlearning.com/blog/fcn-fully-convolutional-network-semantic-segmentation/)
+
+[Guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
+
+[Understanding and Implementing a Fully Convolutional Network](https://towardsdatascience.com/implementing-a-fully-convolutional-network-fcn-in-tensorflow-2-3c46fb61de3b)
+
+[An Overview of Image Segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
+
+[FCN vs U-Net](https://stackoverflow.com/questions/50239795/intuition-behind-u-net-vs-fcn-for-semantic-segmentation)
+
+[Simple Example of Semantic Segmentation](https://awaywithideas.com/a-simple-example-of-semantic-segmentation-with-tensorflow-keras/)
+
+[Metrics to Evaluate Semantic Segmentation Model](https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2)
 
 ## Licencia
 

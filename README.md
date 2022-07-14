@@ -46,22 +46,23 @@ Obtenemos imagenes y sus predicciones, en nuestro caso un terreno ubicado en el 
 - Matplotlib
 
 ## Funcionalidades mas importantes
-Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
+
+El proyecto permite una consulta a imagenes de GEE y da claridad sobre como aplicar modelos deredes neuronales sobre esas imagenes.
 
 ## Instalación
 El cuaderno de Colab presente en el repositorio muestra cómo crear el proyecto, entrenarlo con datos de Earth Engine, hacer predicciones sobre imágenes.
 
-1° escargue el archivo en formato zip 
+1° escargue el archivo en formato zip. 
 
 ![image](https://user-images.githubusercontent.com/1416275/178988982-bfd83430-0e45-4c42-9a1e-b36fb30e4e04.png)
 
 2° Despues descomprima la carpeta 
 
-3° Suba el archivo .ipynb a su entorno colab
+3° Suba el archivo .ipynb a su entorno colab.
 
 ![image](https://user-images.githubusercontent.com/1416275/178992636-7fc00267-a2de-4c44-8929-73da2f488add.png)
 
-Y eso es todo luego puede ejecutar el proyecto en su entorno
+Y eso es todo luego puede ejecutar el proyecto en su entorno colab.
 
 ## Creditos
 * Elmer Efrain Alanoca Condori
@@ -69,11 +70,24 @@ Y eso es todo luego puede ejecutar el proyecto en su entorno
 * Juan Carlos Sanchez Calle
 * Dafné Torrico
 
+## Recursos Utilizados
+* Measuring climate and land changes with AI
+
+https://colab.research.google.com/github/GoogleCloudPlatform/python-docs-samples/blob/main/people-and-planet-ai/land-cover-classification/README.ipynb
+
+* Catalog Sentinel-2 MSI: MultiSpectral Instrument, Level-1C
+
+https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2#bands
+
+* Catalog ESA WorldCover 10m v100 
+
+https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v100
+
 ## Licencia
 
 The MIT License
 
-Copyright (c) 2020 [nombre de equipo]
+Copyright (c) 2020 [OurEyesAI]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

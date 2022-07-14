@@ -9,7 +9,32 @@ Modelo de segmentación de superficies de agua del proyecto HackCities desarroll
 El proyecto busca monitorear la cobertura de agua en una región especifica, para desarrollar mejores politicas ambientales en pro de preservar y/o utilizar de manera mas eficiente nuestras fuentes de agua naturales.
 
 ## Capturas de pantalla
-Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
+Imagenes de la región objetivo para las pruebas del modelo: Laguna Alalay
+
+Región objetivo de la imagen en formato RGB 
+
+![image](https://user-images.githubusercontent.com/1416275/178981759-fc469836-6b14-407e-8e77-d7331348d104.png)
+
+Aplicación de la conversion de bandas de tipo de clasificación a la Region objetivo para obtener los tipos de cobertura.
+
+![image](https://user-images.githubusercontent.com/1416275/178982849-8f5ca1ef-9f87-41fa-8fac-fac405e02e82.png)
+
+Modelo Convolucional aplicado
+
+![image](https://user-images.githubusercontent.com/1416275/178983246-ad6a2cd2-d4e0-4f70-aea2-30784201566f.png)
+
+Gráficos de entrenamiento y validación
+
+![image](https://user-images.githubusercontent.com/1416275/178983895-6f25cbd6-6b57-4477-bf18-4bac3eacd6d5.png)
+
+Resultados del modelo, observamos los cambios en el terreno.
+
+Obtenemos imagenes y sus predicciones, en nuestro caso un terreno ubicado en el departamento de Cochabamba cerca a Coari.
+
+![img](https://user-images.githubusercontent.com/1416275/178984453-41965a1e-66ee-4c3d-902e-4eb7a0001de0.png)
+
+![image](https://user-images.githubusercontent.com/1416275/178984937-be50e1b0-e5fc-4e07-9573-281ee1c310c0.png)
+
 
 ## Tecnologías/Frameworks utilizados
 - Google Colab (Colaboratory)
@@ -24,8 +49,19 @@ Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyec
 Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
 
 ## Instalación
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
-En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
+El cuaderno de Colab presente en el repositorio muestra cómo crear el proyecto, entrenarlo con datos de Earth Engine, hacer predicciones sobre imágenes.
+
+1° escargue el archivo en formato zip 
+
+![image](https://user-images.githubusercontent.com/1416275/178988982-bfd83430-0e45-4c42-9a1e-b36fb30e4e04.png)
+
+2° Despues descomprima la carpeta 
+
+3° Suba el archivo .ipynb a su entorno colab
+
+![image](https://user-images.githubusercontent.com/1416275/178992636-7fc00267-a2de-4c44-8929-73da2f488add.png)
+
+Y eso es todo luego puede ejecutar el proyecto en su entorno
 
 ## Creditos
 * Elmer Efrain Alanoca Condori

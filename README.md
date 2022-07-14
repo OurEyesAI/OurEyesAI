@@ -83,6 +83,14 @@ https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v100
 
 https://cloud.google.com/blog/topics/developers-practitioners/measuring-climate-and-land-changes-ai?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_ret_gcp_yfuxjwamepw_PeopleAndPlanetAI_061422&utm_content=description
 
+* DeepGlobe Land Cover Classification Challenge
+
+https://competitions.codalab.org/competitions/18468
+
+* Kaggle
+
+https://www.kaggle.com/balraj98/deepglobe-land-cover-classification-dataset
+
 * Recursos adicionales para FCNs and Segmentation:
 
 [Fully Convolutional Network](https://www.mygreatlearning.com/blog/fcn-fully-convolutional-network-semantic-segmentation/)

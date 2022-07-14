@@ -1,4 +1,4 @@
-# MONITORIZACION DE COBERTURAS DE AGUA SUPERFICIAL
+# GEOLOCALIZACIÓN Y MONITOREO DE ATAJADOS DE AGUA NATURALES
 El Cambio Climático está provocando temperaturas más cálidas que aumentan la evaporación del suelo, haciendo que los períodos con bajas precipitaciones sean  más  secos  que  en  condiciones  más  frías,  contribuyendo  al  fortalecimiento  de  un problema  ya  conocido  la  sequía.  La  sequía  a  pesar  de  la  pandemia  del  Covid-19,  sigue 
 afectando a varias regiones de Bolivia (Oruro, Potosí, Cochabamba, Sucre, Tarija, Santa Cruz y La Paz), provocados por fenómenos climáticos. Las temporadas de lluvia en todo el territorio de Bolivia, provocan según la morfología y la composición del suelo cambios en la cobertura de suelo,   este  elemento  vital generalmente  se  desperdicia  en  épocas  de  sequía  por  lo  cual  mediante  una  correcta monitorización permitiria la creación de atajados artificiales (geomembranas), que brinden agua para el consumo  humano  y  productivo  de  comunidades  alejadas  de  centros  urbanos o brinden datos útiles para reorientar las politicas públicas de cambio climatico 
 

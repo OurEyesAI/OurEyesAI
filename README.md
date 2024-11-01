@@ -65,7 +65,7 @@ El cuaderno de Colab presente en el repositorio muestra cómo crear el proyecto,
 Y eso es todo luego puede ejecutar el proyecto en su entorno colab.
 
 ## Creditos
-* Elmer Efrain Alanoca Condori
+* Эфраим Аланока
 * Federico Ortega Chura
 * Juan Carlos Sanchez Calle
 * Delma Dafné Torrico Flores
